@@ -1,0 +1,6 @@
+https://www.codingforentrepreneurs.com/blog/celery-redis-django
+
+
+https://www.digitalocean.com/community/questions/how-to-set-up-django-app-redis-celery-a06db780-5335-493e-8158-7128ea7d2cc1
+
+https://redis.io/docs/latest/operate/oss_and_stack/install/install-redis/install-redis-on-linux/
